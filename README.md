@@ -10,7 +10,7 @@ Gem version : 1.1.0
 
 Backbone version : 1.1.0
 
-Underscore version : 1.5.2
+Underscore version : >=1.5.2
 
 ###Rubygems###
 
